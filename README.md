@@ -5,7 +5,7 @@
 
 Programming Languages:
 
- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;">](https://www.ruby-lang.org/en/)   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;">](https://www.ruby-lang.org/en/)   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Frontend Development:
 
