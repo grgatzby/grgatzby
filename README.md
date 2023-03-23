@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Guillaume
+### <h1>Hi there 👋, I'm Guillaume</h1>
 
 <h3>A passionate junior fullstack developer from Belgium</h3>
 
