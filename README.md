@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Programming Languages:
+
+ ruby  javascript
+
+Frontend Development:
+
+ html5  css3  sass  webpack
+
+Frameworks:
+
+ rails  bootstrap
+
 <!--
 **grgatzby/grgatzby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
